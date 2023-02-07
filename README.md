@@ -3,7 +3,7 @@
 将markdown文件中的图像绝对路径与网络路径全部转换为相对路径
 方便将typora等软件的markdown文件整理起来
 #### 具体过程
- * 如下命令行传入参数：文件夹的路径 ，运行java程序即可
+ * 如下命令行传入参数：文件夹的路径（如myNotes） ，运行java程序即可
  ```
  javac PicSave.java
  java PicSave myNotes
